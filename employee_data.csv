@@ -1,0 +1,12 @@
+Employee_ID,Name,Department,Age,Salary,Date_Joined
+1001,Boipelo,HR,34,60000,2018-02-15
+1002,Thabo,Engineering,29,80000,2016-07-22
+NaN,lelo,Marketing,NaN,50000,2023-09-13
+1004,Dave,HR,45,55000,NaN
+1005,Lebo,HR,45,55000,NaN
+1006,Eve,Engineering,31,90000,2019-11-10
+1007,Frank,IT,34,60000,2018-02-15
+1006,Eve,Engineering,31,90000,2019-11-10
+1008,Lucy,IT,NaN,60000,2018-02-15
+1005,Lerato,HR,45,55000,NaN
+1001,Boipelo,HR,34,60000,2018-02-15
